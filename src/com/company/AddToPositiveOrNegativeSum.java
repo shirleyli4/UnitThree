@@ -18,9 +18,10 @@ public class AddToPositiveOrNegativeSum {
             if(number<=0){
                 negasum+=number;
             }
-            System.out.println("The sum of the positive numbers is "+posisum);
-            System.out.println("The sum of the negative numbers is "+negasum);
+
         }
+        System.out.println("The sum of the positive numbers is "+posisum);
+        System.out.println("The sum of the negative numbers is "+negasum);
 
         //output the sums    }
 
